@@ -1,0 +1,49 @@
+{
+  "title": "Black Market Brawl 2 - Tansee Thirty",
+  "description": "Black Market Brawl 2 - Tansee Thirty",
+  "artist": "MooseScribbles",
+  "author": "MooseScribbles",
+  "cover": "https://i.imgur.com/QltNBVc.jpeg",
+  "chapters": {
+       "1": {
+      "title": "Tools and Their Effective Application - Oh-nine v Tansee Thirty",
+      "volume": "1",
+      "last_updated": "1701380620",
+      "groups": {
+        "Youngster": "/proxy/api/imgur/chapter/hYLFksX/"
+      }
+    },
+    "2": {
+      "title": "OMP - Tansee vs OMP",
+      "volume": "1",
+      "last_updated": "1701380620",
+      "groups": {
+        "Youngster": "/proxy/api/imgur/chapter/hu5v5AM/"
+      }
+    },
+    "3": {
+      "title": "Some Assembly Required - Din Dweller v Tansee Thirty",
+      "volume": "1",
+      "last_updated": "1613908800",
+      "groups": {
+        "Youngster": "/proxy/api/imgur/chapter/L30DZUk/"
+      }
+    },
+    "4": {
+      "title": "Terms of Service - Tansee Thirty v Cybergoblin (Loss)",
+      "volume": "1",
+      "last_updated": "1702849420",
+      "groups": {
+        "Youngster": "/proxy/api/imgur/chapter/WKWdfRe/"
+      }
+    },
+    "5": {
+      "title": "Miann - The Greens Knight v Tansee Thirty (Loss)",
+      "volume": "1",
+      "last_updated": "1618401600",
+      "groups": {
+        "Youngster": "/proxy/api/imgur/chapter/ozKPatS/"
+      }
+    }
+  }
+}
